@@ -4,3 +4,9 @@ Limerick poems follow a strict structure: five lines, in which the first, second
 Common limerick formats
 
 Limerick poems follow repeated patterns. They often open with lines such as, “There once was a (someone) from (somewhere) …” or “There was a (someone) who (something) …” One of the most famous opening lines is: “There once was a man from Nantucket …” That limerick was written by a Princeton professor and appeared in the college’s humorous newspaper, the Princeton Tiger, in 1902. Here it is in its entirety:
+There are other examples too:
+There was a Young Lady whose chin,
+Resembled the point of a pin:
+So she had it made sharp,
+And purchased a harp,
+And played several tunes with her chin.
